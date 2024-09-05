@@ -1,0 +1,21 @@
+img {
+  width: 25%;
+  height: 300px;
+  padding: 10px;
+}
+
+h2 {
+  background-color: antiquewhite;
+  width: 25%;
+}
+
+.table {
+  background-color: black;
+  color: white;
+  padding: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: yellowgreen;
+}
